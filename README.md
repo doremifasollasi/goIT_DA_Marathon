@@ -12,3 +12,6 @@ Our plan:
 📌 Day 3: Calculated field in Tableau, building formulas.
 
 📌 Day 4: Final webinar. Study results, interactive testing, course raffle, as well as a detailed breakdown of the data analyst profession and how to get into IT from scratch.
+
+
+### [Theory](https://textbook.edu.goit.global/lms-data-analyst-marathons-textbook/uk/docs/lesson-01/intro)
