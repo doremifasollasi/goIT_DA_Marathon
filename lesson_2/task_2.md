@@ -9,3 +9,4 @@
 
 The format of submitting a DZ is two screenshots: of the created visualization and a dashboard with all visualizations. An example is 👉 [here](https://materials.goit.global/ua/da/example2.png)
 
+✔️ [Analysis](https://www.youtube.com/watch?v=RUR0CTqxM5g) of homework 2.
