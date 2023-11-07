@@ -15,3 +15,6 @@ Our plan:
 
 
 ### [Theory](https://textbook.edu.goit.global/lms-data-analyst-marathons-textbook/uk/docs/lesson-01/intro)
+
+
+### [Result - dashboard](https://public.tableau.com/app/profile/olena.yarychevska/viz/dashboard_movies_analysys/MoviesAnalysiswithcalculations?publish=yes)
