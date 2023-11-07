@@ -10,3 +10,5 @@ reconnect,
 3. Create an additional visualization that will show the number of movies with their breakdown into genres.
 
 The format of submitting the HW is two screenshots of both visualizations: by years and by genres. Hold [example](https://materials.goit.global/ua/da/example1.png)
+
+✔️ [Analysis](https://www.youtube.com/watch?v=v0g0KysaXBQ) of homework 1.
